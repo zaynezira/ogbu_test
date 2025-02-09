@@ -2,5 +2,7 @@
 	This is a tutorial 
 	for ogbu learing git 
 
-adding to the readme file for updates
-also fixing bugs for updates
+	adding to the readme file for updates
+	also fixing bugs for updates
+
+	added text for commit test
